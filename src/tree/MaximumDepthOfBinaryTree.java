@@ -3,7 +3,7 @@ package tree;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class maximumDepthOfBinaryTree {
+public class MaximumDepthOfBinaryTree {
 
 
     public int maxDepth(TreeNode root) {
