@@ -17,7 +17,7 @@ public class MaxElementInAStream {
         }
         return result;
     }
-    
+
 
     public static void main(String[] args) {
         // Test case 1
